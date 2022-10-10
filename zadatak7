@@ -1,5 +1,0 @@
-const obrnuto = (arr) => {
-    return arr.reverse();
-};
-
-console.log(obrnuto([3, 4, 5, 6]));
