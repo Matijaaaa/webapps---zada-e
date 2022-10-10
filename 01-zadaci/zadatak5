@@ -7,5 +7,4 @@ const funkcija = (string) => {
     string = string.join("");
     console.log(string);
 };
-
 funkcija("web apps vjezbe");
